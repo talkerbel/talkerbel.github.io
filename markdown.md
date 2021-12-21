@@ -26,6 +26,8 @@ The good thing is you can use a program called `pandoc` to output Markdown as a 
 
 So you can create a text once and use it in many ways! Find out more with this [easy-to-follow lesson.](https://programminghistorian.org/en/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown)  
 
+You can make tables!
+
 Film | Director | Rating |
 :---:|:---:|:---:|
 The Piano| Jane Campion | 9|
