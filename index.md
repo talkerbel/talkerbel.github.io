@@ -5,7 +5,7 @@
 There are more Anzac biscuit recipes than you can imagine. Here are a few I found online.
 
 - [Australian War Memorial recipe](awm.md)
-- [Woolworth's recipe](woll.md)
+- [Woolworth's recipe](wool.md)
 - [Donna Hay's recipe](donna.md)
 
 Why not add your own?
