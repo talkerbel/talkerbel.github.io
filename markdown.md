@@ -2,9 +2,9 @@
 
 Easy to learn !
 
-You can easily make text **bold** or *italic*. Surround text to be bold with two ** and text to be italic with one *
+You can easily make text **bold** or *italic*. Surround text you want bold with two stars ** on either side and text to be italic with one star * on either side.
 
-Make lists by using hyphens, e.g.
+Make bulleted lists by using hyphens, e.g.
 
 - item one
 - item two
@@ -21,9 +21,9 @@ Links aren't too hard. Put the link text inside square brackets, followed by the
 
 [GitHub](https://github.com)
 
-The good thing is you can use a program called `pandoc` to output Markdown as a `pdf`, as `html` or even as formatted text for a program like Word.
+The good thing is you can use a program called `pandoc` to output Markdown as a `.pdf`, as `.html` or even as formatted text for a program like Word to process.
 
-So you can create a text once and use it in many ways. 
+So you can create a text once and use it in many ways! Find out more with this [easy-to-follow lesson.](https://programminghistorian.org/en/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown)  
 
 Film | Director | Rating
 ---|---|---
