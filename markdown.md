@@ -26,10 +26,10 @@ The good thing is you can use a program called `pandoc` to output Markdown as a 
 
 So you can create a text once and use it in many ways! Find out more with this [easy-to-follow lesson.](https://programminghistorian.org/en/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown)  
 
-Film | Director | Rating
----|---|---
-The Piano| Jane Campion | 9
-Gladiator | Ridley Scott| 7
-Dial M for Murder | Alfred Hitchcock | 9
+Film | Director | Rating |
+:---:|:---:|:---:|
+The Piano| Jane Campion | 9|
+Gladiator | Ridley Scott| 7|
+Dial M for Murder | Alfred Hitchcock | 9|
 
-Last but not least - in order to render properly, files must be saved as filename`.md`. The `.md` indicates that the file is a Markdown file.
+Last but not least - in order to render properly, files must be saved as `filename.md`. The `.md` indicates that the file is a Markdown file.
