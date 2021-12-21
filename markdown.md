@@ -20,7 +20,6 @@ Make numbered lists by using numbers.
 2. item two
 3. item three
 
-
 Links aren't too hard. Put the link text inside square brackets, followed by the link itself inside round brackets, with no spaces in between, and voila!
 
 [GitHub](https://github.com)
@@ -34,3 +33,5 @@ Film | Director | Rating
 The Piano| Jane Campion | 9
 Gladiator | Ridley Scott| 7
 Dial M for Murder | Alfred Hitchcock | 9
+
+Last but not least - in order to render properly, files must be saved as filename`.md`. The `.md` indicates that the file is a Markdown file.
