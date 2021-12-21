@@ -1,8 +1,10 @@
-## Why I like Markdown
+1. # Why I like Markdown
+2. ## Why I like Markdown
+3. ### Why I like Markdown
 
-### Easy to learn !
+#### It's easy to learn !
 
-You use the # to control heading size. One # will give you a BIG heading, two will be a bit smaller, three smaller still.
+You use the # character to control heading size. One # in front of some text will give you a BIG heading, (like 1), two will make it a bit smaller, (like 2), three smaller still, (like 3). 
 
 You can easily make text **bold** or *italic*. Surround text you want bold with two stars ** on either side and text to be italic with one star * on either side.
 
