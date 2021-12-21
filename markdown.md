@@ -23,7 +23,10 @@ Links aren't too hard. Put the link text inside square brackets, followed by the
 
 The good thing is you can use a program called `pandoc` to output Markdown as a `pdf`, as `html` or even as formatted text for a program like Word.
 
-Item | Price | # In stock
+So you can create a text once and use it in many ways. 
+
+Film | Director | Rating
 ---|---|---
-Juicy Apples | 1.99 | 739
-Bananas | 1.89 | 6
+The Piano| Jane Campion | 9
+Gladiator | Ridley Scott| 7
+Dial M for Murder | Alfred Hitchcock | 9
