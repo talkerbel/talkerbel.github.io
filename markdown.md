@@ -2,7 +2,7 @@
 
 ### Easy to learn !
 
-You use the # to control heading size. One # will give you a BIG heading, two will be a sbit smaller, three smaller still.
+You use the # to control heading size. One # will give you a BIG heading, two will be a bit smaller, three smaller still.
 
 You can easily make text **bold** or *italic*. Surround text you want bold with two stars ** on either side and text to be italic with one star * on either side.
 
