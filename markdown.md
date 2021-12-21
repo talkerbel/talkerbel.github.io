@@ -2,7 +2,7 @@
 
 Easy to learn !
 
-You can easily make text **bold** or *italic*.
+You can easily make text **bold** or *italic*. Surround text to be bold with two ** and text to be italic with one *
 
 Make lists by using hyphens, e.g.
 
