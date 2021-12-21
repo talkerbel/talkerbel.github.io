@@ -1,49 +1,13 @@
-## Welcome to my website
+## All about Anzac biscuits!
 
-I am talking Anzac biscuits!
+![Anzac Biscuits](http://www.bhg.com.au/media/9838/170310-gluten-free-anzac-biscuits.jpg "Anzac Biscuits")
 
-[AWM](awm.md)
-[Woollies](woll.md)
-[Donna Hay](donna.md)
+There are more Anzac biscuit recipes than you can imagine. Here are a few I found online.
 
+- [Australian War Memorial recipe](awm.md)
+- [Woolworth's recipe](woll.md)
+- [Donna Hay's recipe](donna.md)
 
+Why not add your own?
 
-
-
-You can use the [editor on GitHub](https://github.com/talkerbel/talkerbel.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-I find Markdown easy to use - it even does tables! 
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/talkerbel/talkerbel.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Create a new file or copy and adapt one of the above recipes. Save your file with a new name, and add a link to it from this page.
